@@ -11,8 +11,6 @@
 - When there are individual or group activities in submodules, make notes of answers and key points from discussions
 - Following each lesson with code, submit a document (either .py or a Jupyter notebook) containing the functioning code from that day's lesson, along with any written notes or comments.
 
-
-
 ### Why am I doing this assignment?:
 
 - This ongoing assignment ensures active participation in the course, and assesses the learning outcomes:
